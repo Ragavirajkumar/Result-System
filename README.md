@@ -1,2 +1,2 @@
-# Result-System
-That is Student Result management System.
+# Student Result management System.
+  Introducing our Student Result Management System! Built with Java, JSP pages, JDBC, and MySQL, this comprehensive solution streamlines student record management for educational institutions. With seamless integration of these technologies, our system simplifies the process of managing academic data. From retrieving student records to updating details, our system provides a user-friendly interface for administrators. Leveraging MySQL for secure data storage and JDBC for efficient database connectivity, it ensures reliability and performance. Experience the future of academic management with our Student Result Management System today!
